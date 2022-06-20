@@ -2,7 +2,8 @@
 
 ## Introduction
 
-*COBOL*'s not good for modern days but I guess it's decent and does its job... Why not switch to *Julia* tho?
+*COBOL*'s not good for modern days but I guess it's decent and does its job...
+Why do banks still use it, though?
 
 ## Compilation and Executing
 
